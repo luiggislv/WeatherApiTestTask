@@ -33,6 +33,12 @@ DATABASES = {
     }
 }
 ```
+
+### Make migrations
+```
+python manage.py makemigrations
+```
+
 ### Run project
 
 ```
